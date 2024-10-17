@@ -1,0 +1,4 @@
+import todoImage from './help-img.png';
+
+// Inside the return statement of App.js
+<img src={todoImage} alt="Todo App UI" className="img-fluid" />
